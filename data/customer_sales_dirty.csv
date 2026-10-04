@@ -1,0 +1,31 @@
+Customer_ID,Name,Email,Age,City,Product,Quantity,Unit_Price,Order_Date,Rating
+1001,Ali Khan,ali@gmail.com,25,Lahore,Laptop,2,120000,2026-01-05,5
+1002,Sara Ahmed,sara@gmail.com,31, lahore ,Mouse,5,2500,2026-01-06,4
+1003,Usman Raza,usman@gmail.com,17,Karachi,Keyboard,3,5000,2026-01-07,3
+1004,Ayesha Malik,,29,Islamabad,Laptop,1,125000,2026-01-08,5
+1005,Hassan Ali,hassan@gmail.com,,Karachi,Monitor,2,45000,2026-01-09,4
+1006,Fatima Noor,fatima@gmail.com,42,lahore,Mouse,10,2500,2026-01-10,6
+1007,Bilal Ahmed,bilal@gmail.com,150,Islamabad,Keyboard,2,5500,2026-01-11,4
+1008,Maria Khan,maria@gmail.com,28, Karachi,Laptop,1,130000,2026-01-12,5
+1009,Ahmed Raza,ahmed@gmail.com,35,Karachi,laptop,2,120000,2026-01-13,4
+1010,Zainab Ali,zainab@gmail.com,26,Lahore, Mouse ,4,2500,2026-01-14,3
+1011,Omar Farooq,omar@gmail.com,39,ISLAMABAD,Monitor,1,45000,2026-01-15,5
+1012,Hina Shah,hina@gmail.com,24,lahore,Keyboard,3,5000,2026-01-16,4
+1013,Saad Khan,saad@gmail.com,33,Karachi,Laptop,2,125000,2026-01-17,5
+1014,Nida Ahmed,nida@gmail.com,27,Islamabad,Mouse,5,,2026-01-18,4
+1015,Usman Raza,usman@gmail.com,17,Karachi,Keyboard,3,5000,2026-01-07,3
+1016,Kamran Ali,kamran@gmail.com,22,Lahore,Laptop,-2,120000,2026-01-19,4
+1017,Sana Malik,sana@gmail.com,30,Karachi,Monitor,2,45000,2026-01-20,5
+1018,Farhan Ahmed,farhan@gmail.com,45, Lahore ,Keyboard,4,5500,2026-01-21,2
+1019,Areeba Khan,areeba@gmail.com,19,Islamabad,Laptop,1,125000,2026-01-22,5
+1020,Danish Raza,danish@gmail.com,34,Karachi,Mouse,8,2500,2026-01-23,4
+1021,Ali Khan,ali@gmail.com,25,Lahore,Laptop,2,120000,2026-01-05,5
+1022,Maham Noor,maham@gmail.com,abc,Karachi,Monitor,2,45000,2026-01-24,4
+1023,Usman Khan,usman2@gmail.com,37,Lahore,Laptop,1,130000,2026-01-25,5
+1024,Laiba Ahmed,laiba@gmail.com,23,Karachi,Mouse,6,2500,2026-01-26,
+1025,Arslan Shah,arslan@gmail.com,29,Islamabad,Keyboard,2,5500,2026-01-27,4
+1026,Noor Fatima,noor@gmail.com,41,Lahore,Laptop,1,120000,2026-01-28,5
+1027,Hasan Ali,hasan@gmail.com,32,Karachi,Monitor,3,45000,2026-01-29,4
+1028,Mehwish Khan,mehwish@gmail.com,28,Islamabad,Mouse,5,2500,2026-01-30,3
+1029,Ahmed Raza,ahmed@gmail.com,35,Karachi,laptop,2,120000,2026-01-13,4
+1030,Rida Shah,rida@gmail.com,26,Lahore,Keyboard,3,5000,2026-01-31,5
