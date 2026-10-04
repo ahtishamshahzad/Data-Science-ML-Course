@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 .venv/
+
+# files the notebooks create when you run them
+ml_models/
+*.joblib
+example.txt
+monthly_sales.png
+sales_dashboard_2024.png
